@@ -22,8 +22,7 @@ The system uses three specialized AG2 agents:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-travel-planner.git
-cd ai-travel-planner
+git clone https://github.com/zacharyzusin/TravelPlanner.git
 ```
 
 2. Install dependencies:
