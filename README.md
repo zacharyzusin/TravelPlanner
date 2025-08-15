@@ -1,6 +1,6 @@
 # Travel Planner
 
-An intelligent travel planning application that uses the AG2 framework to coordinate multiple specialized AI agents for creating optimized travel itineraries within budget constraints. Mock data as well as a locally run LLM were used instead of integrating with APIs so as to simplify the application. Please refer to the AG2 repository for more details: [AG2 Github Repository](https://github.com/ag2ai/ag2)
+An intelligent travel planning application that uses the AG2 framework to coordinate multiple specialized AI agents for creating optimized travel itineraries within budget constraints. Mock data as well as a locally run LLM were used instead of integrating with APIs so as to simplify the application. Please refer to the AG2 repository for more details: [AG2: Open-Source AgentOS for AI Agents](https://github.com/ag2ai/ag2)
 
 ## Architecture
 
