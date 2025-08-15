@@ -35,9 +35,7 @@ pip install "ag2[openai]"
 ollama serve
 ```
 
-### Usage
-
-Run the example trip planner:
+4. Run the example trip planner:
 
 ```bash
 python travel.py
